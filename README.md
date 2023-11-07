@@ -8,7 +8,7 @@
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/getting-started)
 
-# **Deploy**
+# **Setup**
 
 ```
 yarn install
